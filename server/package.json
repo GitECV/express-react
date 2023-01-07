@@ -18,11 +18,8 @@
 		"express": "^4.16.3",
 		"morgan": "^1.9.0",
 		"mysql": "^2.18.1",
-<<<<<<< HEAD:server/package.json
-=======
 		"react-router": "^6.6.1",
 		"react-router-dom": "^6.4.1",
->>>>>>> 57dc0d33582c04bc337c9b8f7c62e763c6923d09:package.json
 		"sass": "^1.55.0"
 	},
 	"devDependencies": {
